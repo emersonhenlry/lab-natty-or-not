@@ -20,22 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Mustang Shelby com IA – Natural ou Fake Natty?
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto explora o uso de IAs Generativas para criar conteúdos hiper-realistas envolvendo o icônico Mustang Shelby, testando se é natural ou fake natty
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa **[PartyRock](https://partyrock.aws)** criação de imagem
+IA Generativa **[Pollo.IA](https://pollo.ai)** para criar video 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o “PartyRock” para a criação da imagem do carro Mustang Shelby fabricado em 1960. Também foi utilizado “Pollo.IA” para a criação do vídeo dos três carros Mustang Shelby andando em uma pista de corrida. Tais ferramentas tornaram o meu vídeo mais realista.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Este Avatar trouxe imagens demonstrando que as IAs Generativas estão conseguindo replicar as imagens realistas, sendo difícil identificar quando é natural ou fake e em pouco tempo vai ser impossível detecta.
+**[MustangShelby](https://pollo.ai/v/cmj25mney00jesns19dhk0d9e?source=share)**  
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi excepcional criar este E-Book, pois descobri diversas ferramentas de IAs Generativas aguçando a minha curiosidade por mais que só utilizei apenas duas para fazer o vídeo. Entendi que as imagens que foram geradas chegaram mais próximos a realidade.
 ```
 
 ### Exemplos e Insigths
